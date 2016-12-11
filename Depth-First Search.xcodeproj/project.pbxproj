@@ -267,7 +267,7 @@
 				INFOPLIST_FILE = "Depth-First Search/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "owl.practice.Depth-First-Search";
+				PRODUCT_BUNDLE_IDENTIFIER = com.demo.dfs;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "1d33ca60-a088-41fa-a6cf-cf1be4ec596d";
 				PROVISIONING_PROFILE_SPECIFIER = owl.practice_dev;
@@ -283,7 +283,7 @@
 				INFOPLIST_FILE = "Depth-First Search/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "owl.practice.Depth-First-Search";
+				PRODUCT_BUNDLE_IDENTIFIER = com.demo.dfs;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "1d33ca60-a088-41fa-a6cf-cf1be4ec596d";
 				PROVISIONING_PROFILE_SPECIFIER = owl.practice_dev;
